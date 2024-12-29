@@ -32,4 +32,4 @@
 - also pursuing further mathematics self study
 
 ---
-[[Blog\|Blog]] | [[personal site/Links\|Links]] | [[personal site/completed writeups/Completed Writeups\|Completed Writeups]] | [[personal site/misc/Misc things\|Misc things]]
+[[Bug Blog\|Bug Blog]] | [[personal site/Links\|Links]] | [[personal site/completed writeups/Completed Writeups\|Completed Writeups]] | [[personal site/misc/Misc things\|Misc things]] | [[Lab Blog\|Lab Blog]]
