@@ -5,7 +5,7 @@
 
 # HTB
 - [[personal site/completed writeups/HTB/Agile\|Agile]]
-- 
+- [[personal site/completed writeups/HTB/Inject\|Inject]]
 
 # Proving Grounds
 
