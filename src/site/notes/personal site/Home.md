@@ -31,5 +31,10 @@
     - I love boomer shooters, adventure games, roguelikes, RPGs, Dungeon Crawlers, Soulslikes, Monhun games, immersive sims and stealth games
 - also pursuing further mathematics self study
 
+
+> [!info] About this site
+> I use obsidian for many many things, including this site. If you like and use Obsidian and want to make a site like this, check out [this](https://dg-docs.ole.dev)plugin.
+
+
 ---
 [[Bug Blog\|Bug Blog]] | [[personal site/Links\|Links]] | [[personal site/completed writeups/Box Writeups\|Box Writeups]] | [[personal site/misc/Misc things\|Misc things]] | [[Lab Blog\|Lab Blog]]
