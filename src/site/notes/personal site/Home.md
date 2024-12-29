@@ -33,7 +33,7 @@
 
 
 > [!info] About this site
-> I use obsidian for many many things, including this site. If you like and use Obsidian and want to make a site like this, check out [this](https://dg-docs.ole.dev)plugin.
+> I use obsidian for many many things, including this site. If you use obsidian and want to make a site like this, check out [this](https://dg-docs.ole.dev)plugin.
 
 
 ---
