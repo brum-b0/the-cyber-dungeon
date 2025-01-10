@@ -7,7 +7,7 @@
 - [[personal site/completed writeups/HTB/Agile\|Agile]]
 - [[personal site/completed writeups/HTB/Inject\|Inject]]
 - [[personal site/completed writeups/HTB/Sea\|Sea]]
-- GreenHorn
+- [[personal site/completed writeups/HTB/GreenHorn\|GreenHorn]]
 - Headless
 - Usage
 - BoardLight
