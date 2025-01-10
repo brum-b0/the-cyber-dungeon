@@ -56,8 +56,7 @@ so:
 - csrf them to download and install the shell.php.zip
 - access the shell.php installed as a plugin
 
-trying to do it manually was acting up for me, so I just used the exploit linked above.
-- 
+trying to do it manually was acting up for me, so I just used the exploit linked above. 
 
 ```bash
 > nc -nvlp 4451
