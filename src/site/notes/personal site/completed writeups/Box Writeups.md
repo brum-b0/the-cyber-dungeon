@@ -8,6 +8,8 @@
 - [[personal site/completed writeups/HTB/Inject\|Inject]]
 - [[personal site/completed writeups/HTB/Sea\|Sea]]
 - [[personal site/completed writeups/HTB/GreenHorn\|GreenHorn]]
+- [[personal site/completed writeups/HTB/MonitorsThree\|MonitorsThree]]
+- [[personal site/completed writeups/HTB/Sightless\|Sightless]]
 - Headless
 - Usage
 - BoardLight
@@ -22,8 +24,6 @@
 - Precious
 - MetaTwo
 - Photobomb
-- MonitorsThree : not retired yet
-- Sightless : not retired yet
 - Cicada : not retired yet
 - Instant : not retired yet
 - Chemistry : not retired yet
@@ -31,6 +31,7 @@
 - LinkVortex : not retired yet
 - Trickster : not retired yet
 
+I'm working on getting these out, cause I have them done, but some need to have notes redone for them, as I lost them somewhere on an old drive in an old vault probably.
 # Proving Grounds
 
 # Vulnlab
