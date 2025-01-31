@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personal-site/completed-writeups/ca23/didactic-octo-paddles/","tags":["#CyberApocalypse-23","web","ssti"]}
 ---
 
-First, looking at `routes/index.js` I saw the register and admin directories.
+First, looking at `routes/index.js` I saw the register and admin routes.
 
 ```js
 router.get("/admin", AdminMiddleware, async (req, res) => {
@@ -20,7 +20,7 @@ router.get("/admin", AdminMiddleware, async (req, res) => {
     });
 ```
 
-Register looked pretty standard and this admin panel is using jsrender to render all the registered users on the store, but register serves as the perfect place for jsrender template injection.
+Register looked pretty standard and this admin panel is using jsrender to render all the registered users on the store. register serves as the perfect place for jsrender template injection.
 
 However, to do this we have to get access to the admin panel.
 
