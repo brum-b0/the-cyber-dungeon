@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personal-site/completed-writeups/box-writeups/"}
 ---
 
-
+I guess these are more notes than writeups, but I can elaborate more if desired.
 # HTB
 - [[personal site/completed writeups/HTB/Agile\|Agile]]
 - [[personal site/completed writeups/HTB/Inject\|Inject]]
