@@ -10,6 +10,7 @@
 - [[personal site/completed writeups/HTB/GreenHorn\|GreenHorn]]
 - [[personal site/completed writeups/HTB/MonitorsThree\|MonitorsThree]]
 - [[personal site/completed writeups/HTB/Sightless\|Sightless]]
+- [[personal site/completed writeups/HTB/Cicada\|Cicada]]
 ---  
 I'm working on getting these out, cause I have them done, but some need to have notes redone for them, as I lost them somewhere on an old drive in an old vault probably.
 
@@ -29,7 +30,7 @@ I'm working on getting these out, cause I have them done, but some need to have 
 - Photobomb
   
 ## Not retired yet
-- Cicada
+
 - Instant
 - Chemistry
 - Alert
