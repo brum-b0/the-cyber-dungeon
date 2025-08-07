@@ -24,8 +24,9 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Seems like a php web app, session cookie httponly flag not set, xss steal maybe?
 
 ### feroxbuster
-`feroxbuster -u http://10.10.11.28 --wordlist ~/Documents/src/gh-tools/SecLists/Discovery/Web-Content/raft-large-directories.txt -x php txt md -g`
-
+```bash
+feroxbuster -u http://10.10.11.28 --wordlist ~/Documents/src/gh-tools/SecLists/Discovery/Web-Content/raft-large-directories.txt -x php txt md -g
+```
 ```bash
 200      GET      118l      226w     2731c http://10.10.11.28/contact.php
 200      GET       15l       50w      318c http://10.10.11.28/themes/bike/README.md
