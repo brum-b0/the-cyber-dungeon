@@ -32,9 +32,9 @@
 - also pursuing further mathematics self study
 
 
-> [!info] About this site
+> [!bug] About this site
 > I use obsidian for many many things, including this site. If you use obsidian and want to make a site like this, check out [this](https://dg-docs.ole.dev)plugin.
 
 
 ---
-[[Bug Blog\|Bug Blog]] | [[personal site/Links\|personal site/Links]] | [[personal site/completed writeups/Box Writeups\|Box Writeups]] | [[personal site/misc/Misc things\|Misc things]] | [[Lab Blog\|Lab Blog]]
+[[Bug Blog\|Bug Blog]] | [[personal site/Links\|personal site/Links]] | [[personal site/completed writeups/Box and lab Writeups\|Box and lab Writeups]] | [[personal site/misc/Misc things\|Misc things]] | [[personal site/completed writeups/Challenge Writeups\|Challenge Writeups]]
