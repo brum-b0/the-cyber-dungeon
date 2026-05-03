@@ -23,7 +23,7 @@
     - I make experimental stuff and game music for my friends' indie projects
     - started learning old time banjo
 - I practice kendo & hema
-- I enjoy bouldering and camping
+- I enjoy bouldering, camping and generally outdoors survivally stuff
 - I like TTRPGs
     - working on a CY_BORG campaign, a Mork Borg campaign, a Blades in the Dark campaign, and a Symbaroum campaign 
 	    - mekborg also looks cool
