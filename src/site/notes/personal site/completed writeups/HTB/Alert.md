@@ -129,7 +129,6 @@ root.txt
 scripts
 # id
 uid=0(root) gid=0(root) groups=0(root)
-# cat root.txt	
-ebe95ae8a7b577ae5bbcdb518f927492                         
+# cat root.txt	                       
 ```
 
