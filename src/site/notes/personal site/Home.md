@@ -10,8 +10,9 @@
     - simultaneously working through blackhat rust and serious cryptography
 	    - might do some more go or bash study afterwards
     - working on my homelab via TTI's Homelab Almanac
-    - Desperately trying to get a cyber or IT or Dev job
-    - wherever the cyber wind takes me afterwards?
+    - trying to get into devsecops 
+    - wherever the wind takes me afterwards?
+- currently a lead arcade technician
 - Previous cybersecurity club officer at my college and defensive team linux administrator
 - CTF Player
 - Intermediate lockpicker
@@ -20,6 +21,7 @@
     - Ride more bikes and less cars
 - I like synths and making music
     - I make experimental stuff and game music for my friends' indie projects
+    - started learning old time banjo
 - I practice kendo
 - I enjoy bouldering and camping
 - I like TTRPGs
