@@ -27,7 +27,9 @@
 - I like TTRPGs
     - working on a CY_BORG campaign, a Mork Borg campaign, a Blades in the Dark campaign, and a Symbaroum campaign 
 	    - mekborg also looks cool
-	    - as does magnagothica maleghast 
+	    - as does magnagothica maleghast
+	    - and cain and world of darkness and heart...
+		    - there's too many games I want to run
 
 - Interested in game development, and working on a few projects in my lack of free time
     - I love boomer shooters, adventure games, roguelikes, RPGs, Dungeon Crawlers, Soulslikes, Monhun games, immersive sims and stealth games
