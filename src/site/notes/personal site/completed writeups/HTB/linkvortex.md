@@ -5,7 +5,7 @@
 # 10.10.11.47
 ---
 # Initial Enumeration &  Recon bits
-I like to leave my Discovery/Enumeration & Recon relatively unstructured, just to build up application context so I can think about how to crack it
+
 ## ports
 ```bash hl:1,5,7
 22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
@@ -24,14 +24,14 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 ## subdomain: dev.linkvortex.htb
 
-- `/.git/` grab git dirs with goop 
+- `/.git/` grab git dirs with githack 
 	- `git status -v`
 	- try the new passwd (green) for admin@linkvortex.htb
 
 ## robots.txt dirs
 - `/ghost/` [ghost cms](https://ghost.org) admin login
 	- main blog shows ghost 5.58 ![Pasted image 20241207205421.png](/img/user/img/Pasted%20image%2020241207205421.png)
-	- ![Pasted image 20241207203412.png](/img/user/img/Pasted%20image%2020241207203412.png) hashrouter?
+	- ![Pasted image 20241207203412.png](/img/user/img/Pasted%20image%2020241207203412.png) ~~hashrouter~~?
 		- valid account determination is possible
 		- admin@linkvortex.htb is a valid account
 		- brumbo@brumbo.brumbo is not
