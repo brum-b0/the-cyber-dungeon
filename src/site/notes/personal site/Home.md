@@ -22,7 +22,7 @@
 - I like synths and making music
     - I make experimental stuff and game music for my friends' indie projects
     - started learning old time banjo
-- I practice kendo
+- I practice kendo & hema
 - I enjoy bouldering and camping
 - I like TTRPGs
     - working on a CY_BORG campaign, a Mork Borg campaign, a Blades in the Dark campaign, and a Symbaroum campaign 
