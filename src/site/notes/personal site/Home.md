@@ -8,7 +8,7 @@
 - Wannabe hackerman, Comp Sci graduate and Mathematics enjoyer.
     - Currently saving up `$$` for CBBH, Sec+ and CPTS exams while I practice my skills
     - simultaneously working through blackhat rust and serious cryptography
-	    - might do some more go or bash study afterwards
+	    - also working on a text adventure/crawler game engine
     - working on my homelab via TTI's Homelab Almanac
     - trying to get into devsecops 
     - wherever the wind takes me afterwards?
