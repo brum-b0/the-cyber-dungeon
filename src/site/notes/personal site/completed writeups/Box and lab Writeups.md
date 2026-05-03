@@ -18,6 +18,7 @@ I guess these are more notes than writeups, but I can elaborate more if desired.
 - [[personal site/completed writeups/HTB/EscapeTwo\|EscapeTwo]]
 - [[personal site/completed writeups/HTB/BoardLight\|BoardLight]]
 - [[personal site/completed writeups/HTB/Alert\|Alert]]
+- Editor
 ---  
 
 I also have some CTF/Challenge type writeups here: [[personal site/completed writeups/Challenge Writeups\|Challenge Writeups]]
