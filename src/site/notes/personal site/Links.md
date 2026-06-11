@@ -10,6 +10,11 @@
 
 [Github](https://github.com/brum-b0)
 
-[playlist](https://open.spotify.com/playlist/28Cpjf3zyCmIqmLuYqF8mz?si=8ec907a6442b4a7f)
+[Codeberg](https://codeberg.org/brumbo)
+
+[playlist](https://open.spotify.com/playlist/28Cpjf3zyCmIqmLuYqF8mz?si=af7f5bac72894b5c)
 
 [bsky](https://bsky.app/profile/brumbo.bsky.social)
+
+[mastodon](https://infosec.exchange/@brumb0_)
+
