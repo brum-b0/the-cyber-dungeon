@@ -10,9 +10,10 @@
     - simultaneously working through blackhat rust and serious cryptography
 	    - also working on a text adventure/crawler game engine
     - working on my homelab via TTI's Homelab Almanac
-    - trying to get into devsecops 
+    - trying to get into devsecops or pentesting 
     - wherever the wind takes me afterwards?
 - currently a lead arcade technician
+- also helping out at IFIN
 - Previous cybersecurity club officer at my college and defensive team linux administrator
 - CTF Player
 - Intermediate lockpicker
