@@ -27,9 +27,9 @@
 - I practice kendo & hema
 - I enjoy bouldering, camping and outdoors survival/bushcrafty stuff
 - I like TTRPGs
-    - working on a CY_BORG campaign, a Mork Borg campaign, a Blades in the Dark campaign, and a Pirate Borg campaign
-	    - mekborg also looks cool
-	    - as does fomoria
+    - working on a CY_BORG campaign, a Mork Borg campaign, a Blades in the Dark campaign,  and a Pirate Borg campaign
+	    - mythic bastionland also looks cool
+	    - as does pilgrims of the murk dome
 	    - and cain and crows and shadowdark and heart and...
 		    - there are too many games I want to run
 - I love boomer shooters, adventure games, roguelikes, RPGs, Dungeon Crawlers, Soulslikes, Monhun games, immersive sims and stealth games
