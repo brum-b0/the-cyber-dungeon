@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/perfection/","tags":["#linux","#ssti","#ruby","#password_cracking"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/perfection/","tags":["#linux","#ssti","#ruby","#password_cracking"],"dg-note-properties":{"tags":["#linux","#ssti","#ruby","#password_cracking"]}}
 ---
 
 

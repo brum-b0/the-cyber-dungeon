@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/dog/","tags":["#linux","backdrop-cms","PHP","valid-account-determination","passwordReuse","exposed_git_dir","bee-backdrop-cms"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/dog/","tags":["#linux","backdrop-cms","PHP","valid-account-determination","passwordReuse","exposed_git_dir","bee-backdrop-cms"],"dg-note-properties":{"Difficulty":"easy","tags":["#linux","backdrop-cms","PHP","valid-account-determination","passwordReuse","exposed_git_dir","bee-backdrop-cms"]}}
 ---
 
 

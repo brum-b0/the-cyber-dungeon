@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/cicada/","tags":["#ActiveDirectory","#SMB","#NXC","WinRM","PassTheHash","SeBackupPrivilege","PyPyKatz"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/cicada/","tags":["#ActiveDirectory","#SMB","#NXC","WinRM","PassTheHash","SeBackupPrivilege","PyPyKatz"],"dg-note-properties":{"season ?":"easy","tags":["#ActiveDirectory","#SMB","#NXC","WinRM","PassTheHash","SeBackupPrivilege","PyPyKatz"],"retired?":true}}
 ---
 
 

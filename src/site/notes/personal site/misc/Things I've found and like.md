@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/misc/things-i-ve-found-and-like/"}
+{"dg-publish":true,"permalink":"/personal-site/misc/things-i-ve-found-and-like/","dg-note-properties":{}}
 ---
 
 - [Good writeup on Flask ssti](https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee)

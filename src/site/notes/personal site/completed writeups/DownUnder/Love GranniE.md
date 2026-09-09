@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/love-granni-e/","tags":["downunder_ctf_25","osint"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/love-granni-e/","tags":["downunder_ctf_25","osint"],"dg-note-properties":{"tags":["downunder_ctf_25","osint"]}}
 ---
 
 We are given an image, sent to us by our "grannie" and tasked with finding the old movie theater she used to go to.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/green-horn/","tags":["#linux","web","PHP","FileUpload","Depix","passwordReuse","gittea"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/green-horn/","tags":["#linux","web","PHP","FileUpload","Depix","passwordReuse","gittea"],"dg-note-properties":{"season 5":"easy","tags":["#linux","web","PHP","FileUpload","Depix","passwordReuse","gittea"],"retired?":true}}
 ---
 
 

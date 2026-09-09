@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/secure-email-attachments/","tags":["web","downunder_ctf_25"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/secure-email-attachments/","tags":["web","downunder_ctf_25"],"dg-note-properties":{"tags":["web","downunder_ctf_25"]}}
 ---
 
 this is the app src:

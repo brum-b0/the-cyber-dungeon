@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/philtered/","tags":["web","downunder_ctf_25"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/philtered/","tags":["web","downunder_ctf_25"],"dg-note-properties":{"tags":["web","downunder_ctf_25"]}}
 ---
 
 This is a php app that populates content dynamically, but has a filter on what gets loaded. the first thing I noticed is that it has an `allow_unsafe` flag when checking:

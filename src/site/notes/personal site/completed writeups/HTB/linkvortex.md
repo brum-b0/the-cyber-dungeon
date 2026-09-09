@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/linkvortex/","tags":["#linux","ghost-cms","symlinks","exposed_git_dir","custom-tool-sudo-exploit"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/linkvortex/","tags":["#linux","ghost-cms","symlinks","exposed_git_dir","custom-tool-sudo-exploit"],"dg-note-properties":{"tags":["#linux","ghost-cms","symlinks","exposed_git_dir","custom-tool-sudo-exploit"]}}
 ---
 
 # 10.10.11.47

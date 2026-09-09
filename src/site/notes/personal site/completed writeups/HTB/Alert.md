@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/alert/","tags":["#linux","#other-tags","XSS","csrf","lfi"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/alert/","tags":["#linux","#other-tags","XSS","csrf","lfi"],"dg-note-properties":{"season 5":"easy","tags":["#linux","#other-tags","XSS","csrf","lfi"]}}
 ---
 
 

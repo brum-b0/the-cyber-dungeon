@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/links/"}
+{"dg-publish":true,"permalink":"/personal-site/links/","dg-note-properties":{}}
 ---
 
 [TryHackMe](https://tryhackme.com/p/brumb0)

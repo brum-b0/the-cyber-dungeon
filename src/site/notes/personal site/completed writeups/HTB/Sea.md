@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/sea/","tags":["#linux","web","XSS","CommandInjection","PHP","revshell","password_cracking","SUIDBinary","csrf"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/sea/","tags":["#linux","web","XSS","CommandInjection","PHP","revshell","password_cracking","SUIDBinary","csrf"],"dg-note-properties":{"season ?":"easy","tags":["#linux","web","XSS","CommandInjection","PHP","revshell","password_cracking","SUIDBinary","csrf"]}}
 ---
 
 # 10.10.11.28

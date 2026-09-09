@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/board-light/","tags":["#linux","#dolibarr","enlightenment","SUIDBinary","binary_exploitation","cve"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/board-light/","tags":["#linux","#dolibarr","enlightenment","SUIDBinary","binary_exploitation","cve"],"dg-note-properties":{"tags":["#linux","#dolibarr","enlightenment","SUIDBinary","binary_exploitation","cve"]}}
 ---
 
 

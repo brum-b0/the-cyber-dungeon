@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/box-and-lab-writeups/"}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/box-and-lab-writeups/","dg-note-properties":{}}
 ---
 
 I guess these are more notes than writeups, but I can elaborate more if desired.

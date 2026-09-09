@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/editor/","tags":["#linux","xwiki","remote-code-execution","groovyscript","relative-path-hijacking","SUIDBinary","netdata","jetty","maven","tomcat"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/editor/","tags":["#linux","xwiki","remote-code-execution","groovyscript","relative-path-hijacking","SUIDBinary","netdata","jetty","maven","tomcat"],"dg-note-properties":{"Difficulty":"easy","tags":["#linux","xwiki","remote-code-execution","groovyscript","relative-path-hijacking","SUIDBinary","netdata","jetty","maven","tomcat"]}}
 ---
 
 # 10.10.11.80

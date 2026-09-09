@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/sightless/","tags":["#linux","sshtunnel","unshadow","chrome-remote-debug-inspect","password_cracking","passwordReuse"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/sightless/","tags":["#linux","sshtunnel","unshadow","chrome-remote-debug-inspect","password_cracking","passwordReuse"],"dg-note-properties":{"season 5?":"easy","tags":["#linux","sshtunnel","unshadow","chrome-remote-debug-inspect","password_cracking","passwordReuse"],"retired?":true}}
 ---
 
 # 10.10.11.32

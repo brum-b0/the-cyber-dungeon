@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/mini-me/","tags":["web","downunder_ctf_25"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/down-under/mini-me/","tags":["web","downunder_ctf_25"],"dg-note-properties":{"tags":["web","downunder_ctf_25"]}}
 ---
 
 The main page has a brainrot video and some js code on it that mentions a js map which is in `/static/js`:

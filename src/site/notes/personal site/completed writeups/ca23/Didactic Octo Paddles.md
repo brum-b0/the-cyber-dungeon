@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/ca23/didactic-octo-paddles/","tags":["#CyberApocalypse-23","web","ssti"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/ca23/didactic-octo-paddles/","tags":["#CyberApocalypse-23","web","ssti"],"dg-note-properties":{"tags":["#CyberApocalypse-23","web","ssti"],"Di":"Medium"}}
 ---
 
 First, looking at `routes/index.js` I saw the register and admin routes.

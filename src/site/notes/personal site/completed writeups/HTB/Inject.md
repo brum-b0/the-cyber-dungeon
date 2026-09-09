@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/inject/","tags":["#linux","web"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/inject/","tags":["#linux","web"],"dg-note-properties":{"Difficulty":"easy","tags":["#linux","web"]}}
 ---
 
 

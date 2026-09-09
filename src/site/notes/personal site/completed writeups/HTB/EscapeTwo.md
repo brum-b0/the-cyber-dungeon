@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/escape-two/","tags":["#windows","ActiveDirectory","NXC","bloodhound","passwordReuse","xp_cmdshell","publicShares","shadowCredentials","ESC4"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/escape-two/","tags":["#windows","ActiveDirectory","NXC","bloodhound","passwordReuse","xp_cmdshell","publicShares","shadowCredentials","ESC4"],"dg-note-properties":{"Difficulty":"easy","tags":["#windows","ActiveDirectory","NXC","bloodhound","passwordReuse","xp_cmdshell","publicShares","shadowCredentials","ESC4"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/monitors-three/","tags":["#linux","web","PHP","sqli","vhost","duplicati","authbypass","sshtunnel","hashcat","fileBackupAndRestore"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/monitors-three/","tags":["#linux","web","PHP","sqli","vhost","duplicati","authbypass","sshtunnel","hashcat","fileBackupAndRestore"],"dg-note-properties":{"season ?":"medium","tags":["#linux","web","PHP","sqli","vhost","duplicati","authbypass","sshtunnel","hashcat","fileBackupAndRestore"],"retired?":true}}
 ---
 
 

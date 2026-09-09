@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/ca23/orbital/","tags":["#CyberApocalypse-23","web","sqli"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/ca23/orbital/","tags":["#CyberApocalypse-23","web","sqli"],"dg-note-properties":{"tags":["#CyberApocalypse-23","web","sqli"],"Difficulty":"Medium"}}
 ---
 
 We are presented with a login form that POSTs to /api/login so I threw sqlmap at it after I determined it was a time based blind injection:

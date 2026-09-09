@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/agile/","tags":["#linux","web","flask","gunicorn","chrome-remote-debug-inspect","puppet"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/agile/","tags":["#linux","web","flask","gunicorn","chrome-remote-debug-inspect","puppet"],"dg-note-properties":{"Season":"don't remember lol","Difficulty":"medium","tags":["#linux","web","flask","gunicorn","chrome-remote-debug-inspect","puppet"]}}
 ---
 
 

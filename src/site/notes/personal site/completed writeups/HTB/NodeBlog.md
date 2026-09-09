@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/node-blog/","tags":["#linux","express","nosqli","loginBypass","deserialization","node","XXE","lfi","FileUpload"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/node-blog/","tags":["#linux","express","nosqli","loginBypass","deserialization","node","XXE","lfi","FileUpload"],"dg-note-properties":{"Difficulty":"easy","tags":["#linux","express","nosqli","loginBypass","deserialization","node","XXE","lfi","FileUpload"]}}
 ---
 
 # 10.129.96.160

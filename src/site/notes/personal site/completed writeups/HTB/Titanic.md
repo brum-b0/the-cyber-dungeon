@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/titanic/","tags":["#linux","#other-tags"]}
+{"dg-publish":true,"permalink":"/personal-site/completed-writeups/htb/titanic/","tags":["#linux","#other-tags"],"dg-note-properties":{"Difficulty":"easy","tags":["#linux","#other-tags"]}}
 ---
 
 
